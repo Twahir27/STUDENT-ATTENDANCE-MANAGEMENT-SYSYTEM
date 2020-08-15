@@ -1,0 +1,119 @@
+form {
+    border: 3px solid #f1f1f1;
+}
+#content{
+    margin:auto;
+    margin-top: 10px;
+    height:x
+    
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+#list ul{
+    margin-top: 50px
+
+}
+#list ul a{
+    color:white;
+    text-decoration: none;
+	
+
+}
+
+#list ul li{
+    margin-top:5px;
+    margin-bottom:10px;
+    width: 100%;
+    font-family:;
+    font-size:15px;
+    height: px;
+    background-color: lightblue;
+	border-radius:3px;
+}
+#list ul li a:hover{
+    background-color:lightblue;
+    color: #F08080;
+    width: 100%;
+}
+   
+button {
+    background-color: pink;
+    color: white;
+    padding: 14px ;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+}
+
+button:hover {
+    color:red;
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: cyan;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px;
+}
+
+img.sayko {
+    width: 20%;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 16px;
+	margin-left:250px;
+	margin-right:250px;
+	
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+#leftlogo{
+	width:180px;height:98px;margin:0px;border:0px solid;
+float:left;border-radius: 3px;
+}
+
+
+#title{
+	width:790px;height:98px;margin:0px;border:0px solid;
+float:left;border-radius: 3px;text-align:center;font-size:35px;font-style:italic;color:#E3E4FA;
+}
+#welcome{
+	background-color:#6693F5;height:50px;border:0px solid;border-radius:3px;
+text-align:center;font-size:17px;
+}
+#content {
+	background: yellow;
+	background: -moz-linear-gradient(top,  rgba(248,248,248,1) 0%, rgba(249,249,249,1) 100%);
+	background: -webkit-linear-gradient(top,  rgba(248,248,248,1) 0%,rgba(249,249,249,1) 100%);
+	background: -o-linear-gradient(top,  rgba(248,248,248,1) 0%,rgba(249,249,249,1) 100%);
+	background: -ms-linear-gradient(top,  rgba(248,248,248,1) 0%,rgba(249,249,249,1) 100%);
+	background: linear-gradient(top,  rgba(248,248,248,1) 0%,rgba(249,249,249,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', endColorstr='#f9f9f9',GradientType=0 );
+	-webkit-box-shadow: 0 1px 0 #fff inset;
+	-moz-box-shadow: 0 1px 0 #fff inset;
+	-ms-box-shadow: 0 1px 0 #fff inset;
+	-o-box-shadow: 0 1px 0 #fff inset;
+	box-shadow: 0 1px 0 #fff inset;
+	border: 1px solid #c4c6ca;
+	margin: 0 auto;
+	padding: 25px 0 0;
+	position: relative;
+	text-align: center;
+	text-shadow: 0 1px 0 #fff;
+	width: 400px;
+}
